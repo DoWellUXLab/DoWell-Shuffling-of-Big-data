@@ -10,7 +10,7 @@ The parameters that need to be passed by the user from the fronted test screen:
 * "Error Size" <This size of the error to be included in shuffled data estimation>
 
 
-##calling the API using remote Server
+## API usage
     
 ##### pthon example
 ```python
