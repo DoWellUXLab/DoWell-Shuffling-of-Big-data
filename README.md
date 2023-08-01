@@ -1,8 +1,8 @@
-# DoWell-Shuffling-of-Big-data
+# ShuffleAPI
 ### This program shuffles and checks for central limit theorem for entries as defined by the user.
 
 ###### request method: POST
-###### request url: http://100072.pythonanywhere.com/api
+###### request url: http://100072.pythonanywhere.com/api?api_ke=your_api_key
 
 The parameters that need to be passed by the user from the fronted test screen:
 * "Deck Size" <number of entries that are to be shuffled>
@@ -10,7 +10,7 @@ The parameters that need to be passed by the user from the fronted test screen:
 * "Error Size" <This size of the error to be included in shuffled data estimation>
 
 
-## API usage
+##calling the API using remote Server
     
 ##### pthon example
 ```python
